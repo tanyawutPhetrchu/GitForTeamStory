@@ -8,12 +8,13 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ## Our Wonderful Story
 
 1. Once upon a time, there was a **castle**.  
-   In a fantasy world or a sci-fi world? Let's mix them together. This is the kingdom of "Tesla," ruled by a king named Elon Mxxx (take a guess).
+In a fantasy world or a sci-fi world? Let's mix them together.
+This is the kingdom of "Tesla," ruled by a king named Elon Mxxx (take a guess).
 
-It is a highly advanced kingdom where people live in a medieval fantasy style, blending a touch of magic with technology. The townspeople lived in peace until one day, a dragon-like creature appeared in the forest near the kingdom, causing panic among the villagers.
+It is a highly advanced kingdom where people live in a medieval fantasy style, blending a touch of magic with technology. 
+The townspeople lived in peace until one day, a dragon-like creature appeared in the forest near the kingdom, causing panic among the villagers.
 
 King Exxx xxx sent a team of knights named "Team A+", consisting of Abdul, Alex, Abraham, and Adolf the Healer, to deal with it.
-
 When Team A+ arrived at where the creature was, they found that...  
    ![castle](img/castle.png)
 
