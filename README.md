@@ -51,7 +51,7 @@ When Team A+ arrived at where the creature was, they found that...
    And at this moment, the sky was beginning to change color, a sign that we should hurry and set off on our journey again.
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img/treasure.png)
+   ![treasure chest](img/treasure_large.png)
    As the sky turned purple, Team A+ continued their journey through the forest. Suddenly, a strange blue light appeared beneath their feet. Before anyone could react, the ground shook, the trees began to spin, and—WHOOSH!—everyone disappeared.
 
 When they opened their eyes, they found themselves in a mysterious underground cave filled with glowing crystals and floating rocks. Abdul looked around and said, “Wait a minute… Weren’t we just in the forest?”
@@ -77,7 +77,8 @@ Suddenly, the treasure chest opened by itself. Inside, they found a golden compa
 Abraham picked up the paper and carefully unfolded it. It appeared to be a map, but something was terribly wrong…
 
 5. Someone found a map, but it had no directions.  
-   ![The Map](img/map.png) 
+   ![The Map](img/map.png)
+
    Abraham spread the map across a flat rock, and everyone gathered around to examine it. It showed the kingdom of Tesla, the mysterious forest, a giant mountain, and even the underground cave where they were standing. However, there were no arrows, no roads, and absolutely no directions.
 
 “This map is useless!” Abdul exclaimed. “How are we supposed to find the treasure?”
