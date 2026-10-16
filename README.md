@@ -104,7 +104,7 @@ From somewhere deep inside the cave, a familiar sound echoed through the darknes
 
 “Creak… clank… THUD!”
 
-Abdul slowly turned toward the cave entrance.
+Abdul slowly turned toward the cave entrance. And suddenly found something that never want to see.
 
 “Guys… I think our dragon is back.”
 
