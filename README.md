@@ -52,6 +52,7 @@ When Team A+ arrived at where the creature was, they found that...
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img/treasure_large.png)
+   
    As the sky turned purple, Team A+ continued their journey through the forest. Suddenly, a strange blue light appeared beneath their feet. Before anyone could react, the ground shook, the trees began to spin, and—WHOOSH!—everyone disappeared.
 
 When they opened their eyes, they found themselves in a mysterious underground cave filled with glowing crystals and floating rocks. Abdul looked around and said, “Wait a minute… Weren’t we just in the forest?”
