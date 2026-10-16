@@ -110,9 +110,34 @@ Abdul slowly turned toward the cave entrance. And suddenly found something that 
 
 And just like that, Team A+ realized that their adventure was far from over.
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+![Pirate](img/pirate.png)  
+
+The big robot dragon came into the cave. Team A+ was scared, but the dragon didn't breathe fire. Instead, it opened its mouth and gave a very loud BURP!
+
+Suddenly, a man fell out of the dragon's mouth. He was covered in soup. It was a pirate! He wore a pirate hat and had a sword. He stood up, pointed his sword to the ceiling, and shouted, “Let’s go to space!”
+
+Team A+ was shocked. "Who are you?" Alex asked.
+
+"I am Captain B-!" the pirate said. "I tried to use my time machine to go back to the past. But I made a mistake and ended up inside the dragon's stomach! Now, my time machine is broken!"
+
+He pulled out a small machine from his pocket. It was smoking and making weird noises.
+
+
+7. A rocket blasted off, but at the same time the **time machine** broke down.
+
+![Rocket](img/rocket.png)  
+
+Suddenly, the broken time machine shot a strange light at the dragon. The dragon’s eyes changed from green to bright red.
+
+Then, the roof of the cave opened up, showing the dark night sky. The dragon made a loud noise like an airplane. Its body started to change. Its wings locked, and its tail turned into rocket engines. The robot dragon transformed into a giant spaceship!
+
+"Hold on tight!" Abraham shouted.
+
+With a loud WHOOSH, the dragon-rocket blasted off. Fire shot out from its tail. It flew straight up through the open roof, taking Team A+, the pirate, and the broken time machine all the way into space!
+
+While they were flying among the stars, Abdul saw something moving near the window. It was a small fluffy cat wearing a tiny space helmet! The cat walked up to the team, looked everyone in the eye, and opened its mouth to speak...
 
 8. The cat was supposed to talk here, but the line is missing.  
 
