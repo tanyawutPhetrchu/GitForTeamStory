@@ -52,6 +52,29 @@ When Team A+ arrived at where the creature was, they found that...
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img/treasure.png)
+   As the sky turned purple, Team A+ continued their journey through the forest. Suddenly, a strange blue light appeared beneath their feet. Before anyone could react, the ground shook, the trees began to spin, and—WHOOSH!—everyone disappeared.
+
+When they opened their eyes, they found themselves in a mysterious underground cave filled with glowing crystals and floating rocks. Abdul looked around and said, “Wait a minute… Weren’t we just in the forest?”
+
+Alex checked his iPad, but the screen displayed only one message: LOCATION UNKNOWN.
+
+“Great! Even our technology has no idea where we are,” Abraham complained.
+
+Meanwhile, Adolf the Healer noticed something shining behind a giant rock. He walked closer and discovered an ancient treasure chest covered in strange symbols.
+
+“Guys! Come and look at this!” he shouted.
+
+The team gathered around the chest. It was locked, and a small dragon-shaped keyhole glowed green. As soon as Abdul touched the lid, a mysterious voice echoed through the cave.
+
+“Only those who know the way can claim what lies within.”
+
+Everyone looked at one another in confusion.
+
+“What way? We don't even know where we are!” Alex exclaimed.
+
+Suddenly, the treasure chest opened by itself. Inside, they found a golden compass, several ancient coins, and a rolled-up piece of paper.
+
+Abraham picked up the paper and carefully unfolded it. It appeared to be a map, but something was terribly wrong…
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
