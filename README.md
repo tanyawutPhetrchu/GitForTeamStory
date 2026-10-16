@@ -78,6 +78,35 @@ Abraham picked up the paper and carefully unfolded it. It appeared to be a map, 
 
 5. Someone found a map, but it had no directions.  
    ![The Map](img/map.png) 
+   Abraham spread the map across a flat rock, and everyone gathered around to examine it. It showed the kingdom of Tesla, the mysterious forest, a giant mountain, and even the underground cave where they were standing. However, there were no arrows, no roads, and absolutely no directions.
+
+“This map is useless!” Abdul exclaimed. “How are we supposed to find the treasure?”
+
+“Maybe we need to use magic,” Adolf the Healer suggested.
+
+Alex held up his iPad and scanned the map. To everyone's surprise, the screen began glowing green, and a holographic dragon appeared above it.
+
+The dragon spoke in a deep, mechanical voice: “The map does not show where you should go. It shows what you must discover.”
+
+Suddenly, three symbols appeared on the map: a flame, a gear, and an eye. Beneath them, a message slowly materialized:
+
+“Find the fire that never burns, the machine that never moves, and the eye that sees without looking. Only then will the path to the ultimate treasure reveal itself.”
+
+The team fell silent.
+
+“Fire that never burns? A machine that never moves? An eye that sees without looking?” Alex repeated. “What does any of that even mean?”
+
+Before anyone could answer, the golden compass began spinning wildly. Its needle stopped pointing north and instead pointed directly toward the mountain where the green dragon had been heading.
+
+From somewhere deep inside the cave, a familiar sound echoed through the darkness:
+
+“Creak… clank… THUD!”
+
+Abdul slowly turned toward the cave entrance.
+
+“Guys… I think our dragon is back.”
+
+And just like that, Team A+ realized that their adventure was far from over.
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
