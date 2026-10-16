@@ -77,7 +77,7 @@ Suddenly, the treasure chest opened by itself. Inside, they found a golden compa
 Abraham picked up the paper and carefully unfolded it. It appeared to be a map, but something was terribly wrong…
 
 5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+   ![The Map](img/map.png) 
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
