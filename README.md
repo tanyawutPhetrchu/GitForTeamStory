@@ -51,7 +51,7 @@ When Team A+ arrived at where the creature was, they found that...
    And at this moment, the sky was beginning to change color, a sign that we should hurry and set off on our journey again.
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+   ![treasure chest](img/treasure.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
