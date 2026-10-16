@@ -29,7 +29,17 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
    But suddenly, we heard someone shouting from far away, loud, but too distant for us to make out a single word.
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. The scientist shouted something very important but nobody wrote it down.
+
+   ![scientist shouting](img/scientist.png)
+
+   A scientist who had been doing research in this forest, but who was standing on a different cliff top, shouted out an important word. A few of us managed to piece together that it was about something significant, or perhaps even **treasure**. While he was shouting, everyone got ready and pulled out their iPads to write that word down, but nobody was fast enough to catch it.
+
+   But it seemed that one of us had managed to write it down in time. So I walked over to her and asked, "Did you get it? Can I take a look?"
+
+   She nodded and handed her iPad to me. What I saw on the screen right then was a picture of that scientist shouting. I looked back and forth between her and the iPad in my hands, and I understood right away that she had drawn a picture. All of us could only burst out laughing.
+
+   And at this moment, the sky was beginning to change color, a sign that we should hurry and set off on our journey again.
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
