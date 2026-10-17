@@ -168,7 +168,26 @@ With a dramatic meow, Agent Whiskers slammed its paw on the hyper-drive button.
 
 The rocket dragon spun 180 degrees, shooting a trail of glittery space fire, and plunged back down toward the atmosphere of Planet Earth!
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. In the forest, the detective discovereda mysterious clue left by a **wizard** and a **ghost**.
+
+![Detective](img/detective.png)
+
+Meanwhile, back in the forest near the Kingdom of Tesla, a famous **detective** wearing a brown trench coat and holding a magnifying glass was inspecting the burnt grass where the dragon-rocket had taken off.
+
+"Elementary, my dear King Elon," the detective muttered to himself, examining a giant footprint that smelled faint of fermented fish sauce.
+
+![Wizard](img/wizard.png)
+
+Suddenly, an eccentric **wizard** carrying a glowing staff stepped out from behind an ancient oak tree.
+
+"Did you find them, Detective?" the wizard asked.
+
+"My spell tracking Team A+'s golden compass says they just re-entered the atmosphere at Mach 5!"
+
+The detective pointed his magnifying glass toward the sky and adjusted his hat. "They aren't alone... Look up there!"
+
+Streaking across the clouds was the dragon-rocket, falling directly toward Tesla Castle—with an extraterrestrial alien ship tailing right behind it!
+
+"Hold onto your hats, gentlemen," the detective said, pulling out a giant butterfly net. "This case is about to get extremely chaotic."
 
 10. The ending… well, we don’t really have one. Please fix this.
