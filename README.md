@@ -139,7 +139,28 @@ With a loud WHOOSH, the dragon-rocket blasted off. Fire shot out from its tail. 
 
 While they were flying among the stars, Abdul saw something moving near the window. It was a small fluffy cat wearing a tiny space helmet! The cat walked up to the team, looked everyone in the eye, and opened its mouth to speak...
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. The cat spoke in a majestic voice, warning them about an **alien** invasion!
+(Turns out the fluffy space cat wasn't just cute—it was an interstellar galactic agent.)
+
+![Cat of Galactic Feline Federation](cat.png)
+
+The fluffy cat cleared its throat and, to everyone's absolute shock, spoke in a deep, booming British accent. "Greetings, earthlings of Team A+," the cat said, adjusting its tiny space helmet.
+"I am Agent Whiskers from the Galactic Feline Federation. That broken time machine didn't just turn your robot dragon into a rocket—it transmitted a beacon across the galaxy!"
+
+Alex immediately pulled out his iPad to take notes, but the cat raised a paw.
+"No time for drawing pictures!" Agent Whiskers warned.
+
+![Alien is coming](alien.png)
+
+"The signal alerted a floating green **alien** battle-cruiser nearby! They think your Som-Tam-eating robot dragon is a weapon of mass deliciousness!"
+
+Captain B- the pirate waved his sword around frantically. "Should we blast them with space laser som-tam?"
+
+"Negative, Captain," the cat replied, pressing a button on its collar.
+"We must align the golden compass with the dragon-rocket's controls to jump back down to Earth before the aliens catch us!"
+
+With a dramatic meow, Agent Whiskers slammed its paw on the hyper-drive button.
+The rocket dragon spun 180 degrees, shooting a trail of glittery space fire, and plunged back down toward the atmosphere of Planet Earth!
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
