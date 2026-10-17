@@ -190,4 +190,102 @@ Streaking across the clouds was the dragon-rocket, falling directly toward Tesla
 
 "Hold onto your hats, gentlemen," the detective said, pulling out a giant butterfly net. "This case is about to get extremely chaotic."
 
+
 10. The ending… well, we don’t really have one. Please fix this.
+
+
+Suddenly, the alien battle-cruiser fired a high-energy beam directly at Team A+'s dragon-rocket, causing a massive explosion. As the ship spiraled out of control and plummeted, Captain B's broken time machine mysteriously roared back to life on its own!
+
+FLASH! WHOOSH!
+
+A warped temporal beam tore through space, violently scattering everyone in different directions. The iron dragon was severely damaged beyond repair. When the alien fleet landed to investigate the wreckage, they only found twisted metal and empty cabins.
+"What the heck?! Where did the targets go, and why is the spicy-weapon completely busted?!" the alien leader roared in frustration.
+
+The Split Fates of Each Team
+The blast and temporal energy hurled everyone across time and space, dividing them into three distinct duos:
+
+Team A: Abdul and Alex
+
+Team B: Abraham and Captain B (the pirate)
+
+Team C: Adolf (the Healer) and Agent Whiskers (the space cat)
+
+Team A: The Research Facility and the Past
+Team A materialized inside a secret research facility. The atmosphere was filled with holographic screens, glowing chemical tubes, and blaring alarm sounds.
+Alex checked his iPad, but instead of coordinates, the screen flashed red:
+
+TEMPORAL ANOMALY DETECTED - FACILITY CODE: T-909
+
+"Dammit, Alex, where did we get warped to this time?" Abdul complained, dusting off his clothes.
+"I don't know! But this definitely isn't the forest or outer space..." Alex replied, scanning the futuristic lab.
+
+Suddenly, a giant laboratory door slid open, revealing a familiar scientist—about 10 years younger than the one they met on the cliff. They asked him about what happened on the cliff, but he had no idea what they were talking about.
+
+After a while, the young scientist gave them a tour of the facility, where they found an unfinished robot. Its shape was unmistakably familiar: it was the dragon that had been with them! They deduced that they must have time-traveled because of the time machine.
+
+The scientist explained that this mechanical dragon project had been in development for a very long time and had "never moved or stirred yet." Hearing those words, they immediately remembered the riddle from the map. Deciding to help, they volunteered to assist in building the robot to study its creation process, intending to use that knowledge to fix the dragon back in their original timeline.
+
+Team B: The Kingdom of Tesla, 15 Years Ago
+Team B found themselves in the Kingdom of Tesla. After assessing the cities and news, they realized they had traveled 15 years into the past.
+
+They headed to the forest near the cliff—the site of all future incidents—but found nothing at first. As they explored deeper, they discovered a floating ball of fire in the middle of the dense forest. Surprisingly, it wasn't burning its surroundings; when touched, it wasn't even hot, feeling as though it wasn't a real fire at all.
+
+"Find the fire that never burns..."
+
+Suddenly, that phrase echoed in their minds. It had to be connected! They carefully collected and kept it.
+
+Team C: Wandering in the Past & The "Eye"
+Team C wandered through unfamiliar lands, unaware they had time-traveled until local villagers informed them they were 11 years in the past. While wandering, Adolf recounted their crazy adventures to Agent Whiskers. To their surprise, the cat declared it knew the whereabouts of "the eye that sees without looking."
+
+It explained that this device allowed the user to perceive and absorb data instantly into their mind before their eyes even had time to focus or look at it. This was the very tool King Elon of Tesla used to develop his kingdom and seize absolute power.
+
+They decided to negotiate to borrow it temporarily in exchange for future intel on upcoming events. It took a long time to secure an audience, verify their identities as royal warriors, and they even almost got executed! They weren't even sure if they'd ever get to return it.
+
+The Call to Return & The Reunion
+As time passed, every team received a strange, telepathic notification warning them they were about to be pulled back to their original timeline.
+
+Team A, who hadn't quite finished building the robot—and had secretly added a "Som-Tam-loving" function into its code—was told by the scientist that it lacked the crucial "Fire" energy source, making it a bit quirky, but operational.
+
+Team B, having spent their time chilling and doing nothing out of awkwardness, simply waited to return.
+
+Team C likewise waited for the pull of time.
+
+Moments later... everyone snapped back to the exact moment right after their spaceship had crashed, with the aliens lurking nearby. They hurriedly pooled their gathered intel and items together to upgrade the dragon.
+
+To their amazement, the newly integrated parts transformed the robot completely, as if it had finally received its true, original components. It was intensely powerful!
+
+The Climax and the Final Treasure
+Leading the charge, they ambushed the aliens before reinforcements could be called. A battle ensued, but they won with absolute ease—like protagonists granted a power-up after a near-defeat.
+
+Suddenly, the dragon malfunctioned again. Its newly added parts detached and reassembled themselves into a directional arrow! Recognizing it instantly as the hidden path to the treasure from the riddle, they followed it beneath the cliff they had originally visited.
+
+They discovered a cave entrance that required the items they collected to unlock. Inside, they opened the chest and found...
+
+![Wizard](img/treasure_open.png)
+
+Wait, there was another layer inside!
+
+![Wizard](img/treasure_small.png)
+
+They opened the second layer and found a note reading:
+
+"Ha! You got tricked! Looking for treasure? There is none, LOL 5555555555"
+
+Everyone felt utterly annoyed. But wait, there was another paper beneath it:
+
+"Just kidding! You guys must be exhausted. We have prepared what this world truly needs: a weapon to destroy and protect this Earth."
+
+It was a cube, exactly the size of a hand.
+
+Epilogue
+After this ordeal, everyone went their separate ways to rest.
+
+Captain B used the acquired items to fix his time machine and returned to his own era.
+
+The dragon went back into hibernation alongside its beloved som-tam.
+
+Team A+ returned to report everything that had happened and safely returned the "Eye" device to the King.
+
+Everyone returned to their normal lives... but what on earth is that mysterious cube meant to protect the world from in the future?
+
+To be continued in CSTU DOOMSDAY!
