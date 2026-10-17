@@ -168,7 +168,7 @@ With a dramatic meow, Agent Whiskers slammed its paw on the hyper-drive button.
 
 The rocket dragon spun 180 degrees, shooting a trail of glittery space fire, and plunged back down toward the atmosphere of Planet Earth!
 
-9. In the forest, the detective discovereda mysterious clue left by a **wizard** and a **ghost**.
+9. In the forest, the detective discovereda mysterious clue left by a **wizard**.
 
 ![Detective](img/detective.png)
 
