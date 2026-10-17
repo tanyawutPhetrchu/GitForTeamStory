@@ -142,7 +142,7 @@ While they were flying among the stars, Abdul saw something moving near the wind
 8. The cat spoke in a majestic voice, warning them about an **alien** invasion!
 (Turns out the fluffy space cat wasn't just cute—it was an interstellar galactic agent.)
 
-![Cat of Galactic Feline Federation](cat.png)
+![Cat of Galactic Feline Federation](img/cat.png)
 
 The fluffy cat cleared its throat and, to everyone's absolute shock, spoke in a deep, booming British accent. "Greetings, earthlings of Team A+," the cat said, adjusting its tiny space helmet.
 "I am Agent Whiskers from the Galactic Feline Federation. That broken time machine didn't just turn your robot dragon into a rocket—it transmitted a beacon across the galaxy!"
@@ -150,7 +150,7 @@ The fluffy cat cleared its throat and, to everyone's absolute shock, spoke in a 
 Alex immediately pulled out his iPad to take notes, but the cat raised a paw.
 "No time for drawing pictures!" Agent Whiskers warned.
 
-![Alien is coming](alien.png)
+![Alien is coming](img/alien.png)
 
 "The signal alerted a floating green **alien** battle-cruiser nearby! They think your Som-Tam-eating robot dragon is a weapon of mass deliciousness!"
 
