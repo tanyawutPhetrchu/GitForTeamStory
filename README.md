@@ -261,11 +261,11 @@ Suddenly, the dragon malfunctioned again. Its newly added parts detached and rea
 
 They discovered a cave entrance that required the items they collected to unlock. Inside, they opened the chest and found...
 
-![Wizard](img/treasure_open.png)
+![treasure](img/treasure_open.png)
 
 Wait, there was another layer inside!
 
-![Wizard](img/treasure_small.png)
+![treasure small](img/treasure_small.png)
 
 They opened the second layer and found a note reading:
 
